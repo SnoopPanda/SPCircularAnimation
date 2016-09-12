@@ -1,6 +1,10 @@
 SPCircularAnimation
 =================
 
+## Example
+
+![Screenshots_Row1](https://github.com/SnoopPanda/SPCircularAnimation/blob/master/Example/animation.gif)
+
 ## How to use
 
 ### Import
